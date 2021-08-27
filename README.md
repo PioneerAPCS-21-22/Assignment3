@@ -18,7 +18,7 @@ Enter the degrees in Fahrenheit: -22
 
 ### Challenge
 
-If you are looking for a challenge, try to make a program that will do the conversion in either direction depending on what the user chooses. However, the challenge is to do this *without* using conditionals (`if` statements).
+If you are looking for a challenge, try to make a program that will do the conversion in either direction depending on what the user chooses. However, the challenge is to do this **without** using conditionals (`if` statements).
 
 For example:
 
